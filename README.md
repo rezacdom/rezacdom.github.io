@@ -1,2 +1,2 @@
 # rezacdom.github.io
-theme:minima
+theme:Modernist
