@@ -1,4 +1,4 @@
-# rezacdom.github.io
+# Dominik Řezáč
 Ahoj
 Jak to jde?
 
