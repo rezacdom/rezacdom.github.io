@@ -1,2 +1,4 @@
 # rezacdom.github.io
-theme:Modernist
+Ahoj
+Jak to jde?
+
