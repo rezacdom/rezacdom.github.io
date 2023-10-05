@@ -16,8 +16,9 @@ body, html {
 .intro-container img {
     position: absolute;
     bottom: -100%;
-    left: 50%;
-    transform: translateX(-50%);
+    left: 0;
+    right: 0;
+    margin: auto;
     animation: slideUp 5s ease-in-out forwards, changeBackgroundColor 5s ease-in-out 1s forwards;
 }
 
