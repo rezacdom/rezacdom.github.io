@@ -18,7 +18,7 @@ body, html {
     position: absolute;
     background-color: yellow;
     z-index: -1;
-    animation: changeBackgroundColor 5s ease-in-out forwards;
+    animation: changeBackgroundColor 2s ease-in-out forwards;
 }
 
 .intro-container img {
